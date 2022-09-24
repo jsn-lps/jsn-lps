@@ -11,5 +11,5 @@ My technical expertise includes but is not limited to:
 - Misc: Git, Sockets, TCP/IP, I'm the nephew my family calls to troubleshoot their tech issues, etc. 
 - I even have some neat experiences in leadership and art! Expertise in the Adobe Creative Suite. I've lead numerous teams in high-tension environments and even started my own company! 
 
-Please feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/jsnlps94/)
+Please feel free to reach out via [email](mailto:lpsjsn94+githubcontact@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jsnlps94/)
 
