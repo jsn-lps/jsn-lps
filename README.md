@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-** I really like to learn **
+**I really like to learn**
 
 All things coding, all things technical, all things life. I have a passion for getting to the bottom of things. 
 
