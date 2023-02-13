@@ -13,5 +13,5 @@ My technical expertise includes but is not limited to:
 
 Please feel free to reach out via [email](mailto:lpsjsn94+githubcontact@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jsnlps94/)
 
-[Website](https://jsn-lps.github.io/)
+[Portfolio WIP](https://jsn-lps.github.io/)
 
